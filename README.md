@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Rodrigue!
 
+Here is where i showcase some project i have managed to do in my spare time to keep me going slowly working through various subjects and keeping my skills up to scratch 
 I'm a passionate developer from East London with 2 years of experience in Go and JavaScript. I love creating efficient, scalable backend systems and dynamic, responsive user interfaces.
 
 - 🌱 I’m currently learning advanced topics in Go and exploring TypeScript.
